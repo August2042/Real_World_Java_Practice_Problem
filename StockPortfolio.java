@@ -1,4 +1,4 @@
-package financialSectorProblem;
+  package financialSectorProblem;
 
 import java.util.Scanner;
 
